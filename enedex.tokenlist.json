@@ -17,12 +17,52 @@
       "logoURI": "https://raw.githubusercontent.com/enedexorg/token-list/master/assets/ene.png"
     },
     {
-      "address": "0x6eD79Aa1c71FD7BdBC515EfdA3Bd4e26394435cC",
+      "address": "0x5b9b42d6e4B2e4Bf8d42Eba32D46918e10899B66",
       "chainId": 1287,
-      "name": "WIN Token",
-      "symbol": "WIN",
+      "name": "GREEN Token",
+      "symbol": "GREEN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/enedexorg/token-list/master/assets/win.png"
+      "logoURI": "https://raw.githubusercontent.com/enedexorg/token-list/master/assets/green.png"
+    },
+   {
+      "address": "0xaf5C4C6C7920B4883bC6252e9d9B8fE27187Cf68",
+      "chainId": 1287,
+      "name": "SOLAR Token",
+      "symbol": "SOLAR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/enedexorg/token-list/master/assets/solar.png"
+    },
+    {
+      "address": "0xEC5d4F247aF81A843612eb1371CBCfa88b762119",
+      "chainId": 1287,
+      "name": "CORN Token",
+      "symbol": "CORN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/enedexorg/token-list/master/assets/corn.png"
+    },
+    {
+      "address": "0xDDb64fE46a91D46ee29420539FC25FD07c5FEa3E",
+      "chainId": 1287,
+      "name": "BIOMASS Token",
+      "symbol": "BIOMASS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/enedexorg/token-list/master/assets/biomass.png"
+    },
+    {
+      "address": "0x2D8BE6BF0baA74e0A907016679CaE9190e80dD0A",
+      "chainId": 1287,
+      "name": "HYDROGEN Token",
+      "symbol": "HYDROGEN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/enedexorg/token-list/master/assets/hydrogen.png"
+    },
+    {
+      "address": "0x970e8f18ebfEa0B08810f33a5A40438b9530FBCF",
+      "chainId": 1287,
+      "name": "WIND Token",
+      "symbol": "WIND",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/enedexorg/token-list/master/assets/wind.png"
     }
   ],
   "version": {
